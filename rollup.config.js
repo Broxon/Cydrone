@@ -74,3 +74,15 @@ export default {
 		clearScreen: false
 	}
 };
+
+css({ output:(styles, styleNodes) => {
+	let orderedStyles = '';
+	// To ensure the CSS files are compiled in the same order on every build,
+	// sort alphabetically by the CSS file's path.
+	Object.keys(styleNodes)
+	  .sort()
+	  .forEach((fromFile) =>  {
+		orderedStyles += styleNodes[fromFile];
+	  });
+	writeFileSync('./public/build/bundle.css', orderedStyles);
+  }, })

@@ -450,39 +450,39 @@ var app = (function () {
     			attr_dev(a0, "class", "navbar-item svelte-dgi1rt");
     			add_location(a0, file$1, 10, 12, 236);
     			attr_dev(a1, "href", "/");
-    			attr_dev(a1, "class", "navbar-item is-size-5 svelte-dgi1rt");
+    			attr_dev(a1, "class", "navbar-item is-size-5 has-text-black svelte-dgi1rt");
     			add_location(a1, file$1, 13, 12, 375);
     			attr_dev(span0, "aria-hidden", "true");
-    			add_location(span0, file$1, 17, 16, 569);
+    			add_location(span0, file$1, 17, 16, 584);
     			attr_dev(span1, "aria-hidden", "true");
-    			add_location(span1, file$1, 18, 16, 618);
+    			add_location(span1, file$1, 18, 16, 633);
     			attr_dev(span2, "aria-hidden", "true");
-    			add_location(span2, file$1, 19, 16, 667);
+    			add_location(span2, file$1, 19, 16, 682);
     			attr_dev(a2, "class", "navbar-burger svelte-dgi1rt");
     			attr_dev(a2, "href", "#/");
     			toggle_class(a2, "is-active", /*mobile*/ ctx[0]);
-    			add_location(a2, file$1, 16, 12, 471);
+    			add_location(a2, file$1, 16, 12, 486);
     			attr_dev(div0, "class", "navbar-brand");
     			add_location(div0, file$1, 9, 8, 197);
-    			attr_dev(a3, "class", "navbar-item  svelte-dgi1rt");
+    			attr_dev(a3, "class", "navbar-item has-text-black svelte-dgi1rt");
     			attr_dev(a3, "href", "/");
-    			add_location(a3, file$1, 25, 20, 893);
-    			attr_dev(a4, "class", "navbar-item svelte-dgi1rt");
+    			add_location(a3, file$1, 25, 20, 908);
+    			attr_dev(a4, "class", "navbar-item has-text-black svelte-dgi1rt");
     			attr_dev(a4, "href", "/");
-    			add_location(a4, file$1, 28, 20, 999);
-    			attr_dev(a5, "class", "navbar-item svelte-dgi1rt");
+    			add_location(a4, file$1, 28, 20, 1028);
+    			attr_dev(a5, "class", "navbar-item has-text-black svelte-dgi1rt");
     			attr_dev(a5, "href", "/");
-    			add_location(a5, file$1, 31, 20, 1106);
-    			attr_dev(a6, "class", "navbar-item svelte-dgi1rt");
+    			add_location(a5, file$1, 31, 20, 1150);
+    			attr_dev(a6, "class", "navbar-item has-text-black svelte-dgi1rt");
     			attr_dev(a6, "href", "/");
-    			add_location(a6, file$1, 34, 20, 1217);
+    			add_location(a6, file$1, 34, 20, 1276);
     			attr_dev(div1, "class", "navbar-start");
-    			add_location(div1, file$1, 24, 16, 846);
+    			add_location(div1, file$1, 24, 16, 861);
     			attr_dev(div2, "class", "navbar-end");
-    			add_location(div2, file$1, 23, 12, 805);
+    			add_location(div2, file$1, 23, 12, 820);
     			attr_dev(div3, "class", "navbar-menu");
     			toggle_class(div3, "is-active", /*mobile*/ ctx[0]);
-    			add_location(div3, file$1, 22, 8, 742);
+    			add_location(div3, file$1, 22, 8, 757);
     			attr_dev(div4, "class", "container");
     			add_location(div4, file$1, 8, 4, 165);
     			attr_dev(nav, "class", "navbar is-spaced is-transparent is-fixed-top");
@@ -600,64 +600,111 @@ var app = (function () {
     const file = "src/components/Hero.svelte";
 
     function create_fragment$1(ctx) {
+    	let div10;
+    	let div7;
     	let div5;
     	let div4;
-    	let div3;
     	let div2;
     	let div0;
     	let t1;
     	let div1;
     	let t3;
     	let button;
+    	let t5;
+    	let div3;
+    	let figure;
+    	let img;
+    	let img_src_value;
+    	let t6;
+    	let div6;
+    	let t7;
+    	let div9;
+    	let div8;
 
     	const block = {
     		c: function create() {
+    			div10 = element("div");
+    			div7 = element("div");
     			div5 = element("div");
     			div4 = element("div");
-    			div3 = element("div");
     			div2 = element("div");
     			div0 = element("div");
     			div0.textContent = "Kybernetický dron pro vzdálené hackování";
     			t1 = space();
     			div1 = element("div");
-    			div1.textContent = "CyDrone disponuje širokou paletou nástrojů od rušiček\n                    rádiové komunikace až k nočnímu vidění";
+    			div1.textContent = "CyDrone disponuje širokou paletou nástrojů od rušiček\n                        rádiové komunikace až k nočnímu vidění";
     			t3 = space();
     			button = element("button");
     			button.textContent = "ZJISTIT VÍCE";
-    			attr_dev(div0, "class", "title is-1 has-text-white-bis");
-    			add_location(div0, file, 4, 16, 144);
-    			attr_dev(div1, "class", "title is-5 has-text-white-bis mt-6");
-    			add_location(div1, file, 7, 16, 288);
-    			attr_dev(button, "class", "button is-hovered is-medium is-rounded is-responsive is-fullwidth mt-6 svelte-qq4yaz");
-    			add_location(button, file, 11, 16, 509);
-    			attr_dev(div2, "class", "column is-one-third svelte-qq4yaz");
-    			add_location(div2, file, 3, 12, 94);
-    			attr_dev(div3, "class", "columns");
-    			add_location(div3, file, 2, 8, 60);
-    			attr_dev(div4, "class", "container");
-    			add_location(div4, file, 1, 4, 28);
-    			attr_dev(div5, "class", "hero-body");
-    			add_location(div5, file, 0, 0, 0);
+    			t5 = space();
+    			div3 = element("div");
+    			figure = element("figure");
+    			img = element("img");
+    			t6 = space();
+    			div6 = element("div");
+    			t7 = space();
+    			div9 = element("div");
+    			div8 = element("div");
+    			attr_dev(div0, "class", "title is-1 has-text-white-bis is-size-2-mobile");
+    			add_location(div0, file, 5, 20, 208);
+    			attr_dev(div1, "class", "title is-5 has-text-white-bis mt-6 is-size-6-mobile");
+    			add_location(div1, file, 8, 20, 381);
+    			attr_dev(button, "class", "button is-active is-hovered is-medium is-rounded is-responsive is-fullwidth mt-6 svelte-nbmu6z");
+    			add_location(button, file, 14, 20, 680);
+    			attr_dev(div2, "class", "column is-one-third svelte-nbmu6z");
+    			add_location(div2, file, 4, 16, 154);
+    			if (!src_url_equal(img.src, img_src_value = "./assets/Dronik.png")) attr_dev(img, "src", img_src_value);
+    			attr_dev(img, "alt", "Drone");
+    			add_location(img, file, 21, 24, 996);
+    			attr_dev(figure, "class", "image");
+    			add_location(figure, file, 20, 20, 949);
+    			attr_dev(div3, "class", "column svelte-nbmu6z");
+    			add_location(div3, file, 19, 16, 908);
+    			attr_dev(div4, "class", "columns is-multiline");
+    			add_location(div4, file, 3, 12, 103);
+    			attr_dev(div5, "class", "container");
+    			add_location(div5, file, 2, 8, 67);
+    			add_location(div6, file, 26, 8, 1137);
+    			attr_dev(div7, "class", "hero-body");
+    			add_location(div7, file, 1, 4, 35);
+    			attr_dev(div8, "class", "container");
+    			add_location(div8, file, 29, 8, 1203);
+    			attr_dev(div9, "id", "about");
+    			attr_dev(div9, "class", "hero-body");
+    			add_location(div9, file, 28, 4, 1160);
+    			attr_dev(div10, "id", "bg-img");
+    			attr_dev(div10, "class", "hero svelte-nbmu6z");
+    			add_location(div10, file, 0, 0, 0);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
     		},
     		m: function mount(target, anchor) {
-    			insert_dev(target, div5, anchor);
+    			insert_dev(target, div10, anchor);
+    			append_dev(div10, div7);
+    			append_dev(div7, div5);
     			append_dev(div5, div4);
-    			append_dev(div4, div3);
-    			append_dev(div3, div2);
+    			append_dev(div4, div2);
     			append_dev(div2, div0);
     			append_dev(div2, t1);
     			append_dev(div2, div1);
     			append_dev(div2, t3);
     			append_dev(div2, button);
+    			append_dev(div4, t5);
+    			append_dev(div4, div3);
+    			append_dev(div3, figure);
+    			append_dev(figure, img);
+    			append_dev(div7, t6);
+    			append_dev(div7, div6);
+    			append_dev(div10, t7);
+    			append_dev(div10, div9);
+    			append_dev(div9, div8);
     		},
     		p: noop,
     		i: noop,
     		o: noop,
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(div5);
+    			if (detaching) detach_dev(div10);
     		}
     	};
 

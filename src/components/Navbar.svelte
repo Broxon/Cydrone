@@ -11,7 +11,7 @@
             <a href="#/" class="navbar-item">
                 <img class="cydrone" src="./assets/CyDrone.png" alt="#/" />
             </a>
-            <a href="/" class="navbar-item is-size-5">
+            <a href="/" class="navbar-item is-size-5 has-text-black">
                 CyDrone
             </a>
             <a class="navbar-burger" class:is-active={mobile} on:click={toggleNav} href="#/">
@@ -23,16 +23,16 @@
         <div class="navbar-menu" class:is-active={mobile}>
             <div class="navbar-end">
                 <div class="navbar-start">
-                    <a class="navbar-item " href="/">
+                    <a class="navbar-item has-text-black" href="/">
                     O nás 
                     </a>
-                    <a class="navbar-item" href="/">
+                    <a class="navbar-item has-text-black" href="/">
                     Partneři
                     </a>
-                    <a class="navbar-item" href="/">
+                    <a class="navbar-item has-text-black" href="/">
                     Naše řešení 
                     </a>
-                    <a class="navbar-item" href="/">
+                    <a class="navbar-item has-text-black" href="/">
                     Kontakt</a>
                 </div>
             </div>
