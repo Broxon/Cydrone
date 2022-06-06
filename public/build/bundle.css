@@ -1,4 +1,8 @@
-#hero.svelte-3zd0ic{background-image:url("/assets/background.png");background-position:center;background-repeat:no-repeat;background-attachment:fixed;background-size:100% 100%}.column.svelte-3zd0ic{margin-top:9rem;margin-left:5rem;margin-right:5rem}.button.svelte-3zd0ic:hover{background-color:hsl(217, 71%, 53%);border:none}.button.svelte-3zd0ic:active{background-color:hsl(217, 71%, 53%);border:none}@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,700&display=swap');a.svelte-dgi1rt{font-family:'Roboto Mono', monospace;font-weight:bold}/*! bulma.io v0.9.4 | MIT License | github.com/jgthms/bulma */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,700&display=swap');a.svelte-dgi1rt{font-family:'Roboto Mono', monospace;font-weight:bold}#hero.svelte-19lqni{background:rgb(7, 2, 56);background:linear-gradient(180deg, rgba(7, 2, 56, 1) 0%)}#div-about.svelte-19lqni{background-color:#ffffff;opacity:1;background-image:radial-gradient(#21257b 1.1px, #ffffff 1.1px);background-size:22px 22px}#Partners-columns.svelte-19lqni{background-color:#ffffff;opacity:1;background-image:radial-gradient(
+                rgba(7, 2, 56, 1) 0.9px,
+                transparent 0.9px
+            ),
+            radial-gradient(rgba(7, 2, 56, 1) 0.9px, #ffffff 0.9px);background-size:36px 36px;background-position:0 0, 18px 18px}.column.svelte-19lqni{margin-top:9rem;margin-left:5rem;margin-right:5rem}.button.svelte-19lqni:hover{background-color:hsl(217, 71%, 53%);border:none}.button.svelte-19lqni:active{background-color:hsl(217, 71%, 53%);border:none}/*! bulma.io v0.9.4 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
 .button, .input, .textarea, .select select, .file-cta,
 .file-name, .pagination-previous,

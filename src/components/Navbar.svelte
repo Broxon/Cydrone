@@ -5,11 +5,11 @@
   }
 </script>
 
-<nav class="navbar is-spaced is-transparent" id="my-nav">
+<nav class="navbar is-spaced is-transparent" id="Navbar">
     <div class="container">
         <div class="navbar-brand">
             <a href="#/" class="navbar-item">
-                <img class="cydrone" src="./assets/CyDrone.png" alt="#/" />
+                <img class="cydrone" src="./assets/img/logo/CyDrone.png" alt="#/" />
             </a>
             <a href="#hero" class="navbar-item is-size-5 has-text-black">
                 CyDrone
