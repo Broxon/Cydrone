@@ -11,10 +11,12 @@
                     CyDrone disponuje širokou paletou nástrojů od rušiček
                     rádiové komunikace až k nočnímu vidění
                 </div>
-                <button
-                    class="button is-active is-hovered is-medium is-rounded is-responsive is-fullwidth mt-6"
-                    >ZJISTIT VÍCE</button
-                >
+                <a href="#Our_solution">
+                    <button
+                        class="button is-active is-hovered is-medium is-rounded is-responsive is-fullwidth mt-6"
+                        href="#Our_solution">ZJISTIT VÍCE</button
+                    >
+                </a>
             </div>
             <div class="column">
                 <figure class="image">
@@ -209,13 +211,13 @@
     </div>
 </section>
 
-
-<section class="section">
+<section class="section" id="Our_solution">
     <div class="container">
         <div class="has-text-centered pb-6">
             <h2 class="title is-2">Naše řešení</h2>
             <h5 class="subtitle is-5 has-text-grey">
-                Naše řešení obsahuje všechny důležité technikálie k zotovení bezkonkurenčního zařízení
+                Naše řešení obsahuje všechny důležité technikálie k zotovení
+                bezkonkurenčního zařízení
             </h5>
         </div>
         <div class="columns">
@@ -224,17 +226,25 @@
                     <img src="./assets/img/gallery/Dronik2.png" alt="Drone" />
                 </figure>
             </div>
-            <div class="column">
-                <div class="subtitle is-6 has-text-grey">
-                        Naše řešení tkví v tom, že si veškeré komponenty vytváříme sami. To znamená, že pokud uvidíte nějaký hardware, se kterým máme osazený náš dron, tak je naprosto unikátní. To nám dává velikou volnost jak můžeme s vývojem našho dronu pokračovat.
+            <div class="column" id="Solution_text">
+                <div class="subtitle is-6 has-text-black">
+                    Naše řešení tkví v tom, že si veškeré komponenty vytváříme
+                    sami. To znamená, že pokud uvidíte nějaký hardware, se
+                    kterým máme osazený náš dron, tak je naprosto unikátní. To
+                    nám dává velikou volnost jak můžeme s vývojem našho dronu
+                    pokračovat.
                 </div>
-                <div class="subtitle is-6 has-text-grey">
-                    Dále si zakládáme na funkcích, které by měl dron schopen zvládat. Díky tomu jsme vytvořili zařízení, které je velmi multifunkční a je schopno vykonávat mnoho úkonů, které mu jsou zadány
-            </div>
+                <div class="subtitle is-6 has-text-black">
+                    Dále si zakládáme na funkcích, které by měl dron schopen
+                    zvládat. Díky tomu jsme vytvořili zařízení, které je velmi
+                    multifunkční a je schopno vykonávat mnoho úkonů, které mu
+                    jsou zadány
+                </div>
             </div>
         </div>
     </div>
 </section>
+
 
 <style>
     #hero {
@@ -247,6 +257,7 @@
         opacity: 1;
         background-image: radial-gradient(#21257b 1.1px, #ffffff 1.1px);
         background-size: 22px 22px;
+        padding-bottom: 5%;
     }
 
     #Partners-columns {
@@ -259,6 +270,7 @@
             radial-gradient(rgba(7, 2, 56, 1) 0.9px, #ffffff 0.9px);
         background-size: 36px 36px;
         background-position: 0 0, 18px 18px;
+        padding-bottom: 8%;
     }
     .column {
         margin-top: 9rem;
