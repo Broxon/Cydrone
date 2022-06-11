@@ -3,7 +3,7 @@
 <footer class="footer pt-0" id="footer">
     <div class="content">
         <div class="columns">
-            <div class="column is-one-quarter" />
+            <div class="column" />
             <div class="column">
                 <strong class="has-text-white">CyDrone</strong>
                 <ul id="footer-ul-1">
@@ -11,6 +11,8 @@
                     <li><a href="#Partners">Partneři</a></li>
                     <li><a href="#Our_solution">Naše řešení</a></li>
                 </ul>
+            </div>
+            <div class="column">
             </div>
             <div class="column">
                 <strong class="has-text-white">Kontakt</strong>
