@@ -1,5 +1,5 @@
-<section class="section" id="About">
-  <div class="container" id="container-about">
+<section class="section" id="O_nás">
+  <div class="container" id="Kontejner_o_nás">
     <div class="has-text-centered pb-6">
       <h2 class="title is-2">O nás</h2>
       <h5 class="subtitle is-5 has-text-grey">Představení našeho týmu, který je zodpovědný za vývoj CyDrone</h5>

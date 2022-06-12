@@ -1,4 +1,4 @@
-<section class="section" id="Our_solution">
+<section class="section" id="Naše_řešení">
   <div class="container">
     <div class="has-text-centered pb-6">
       <h2 class="title is-2">Naše řešení</h2>

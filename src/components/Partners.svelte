@@ -1,4 +1,4 @@
-<section class="section" id="Partners">
+<section class="section" id="Partneři">
   <div class="container">
     <div class="has-text-centered pb-6">
       <h2 class="title is-2">Partneři</h2>
@@ -36,7 +36,7 @@
       <div class="columns">
         <div class="column is-3">
           <a href="https://haxagon.cz/" alt="#">
-            <img src="/assets/img/partners/haxagon.svg" alt="logo_haxagon" />
+            <img src="/assets/img/partners/haxagon.svg" alt="Logo haxagonu" />
           </a>
         </div>
         <div class="column">

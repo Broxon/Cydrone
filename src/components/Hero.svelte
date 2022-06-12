@@ -18,7 +18,7 @@
   typing();
 </script>
 
-<section class="section pb-0" id="hero">
+<section class="section pb-0" id="Úvod">
   <div class="container max-width">
     <div class="columns pb-5 is-multiline">
       <div class="column is-one-third">
@@ -38,10 +38,10 @@
     </div>
   </div>
 </section>
-<img src="./assets/img/background/wave.svg" alt="wave" />
+<img src="./assets/img/background/wave.svg" alt="vlna" />
 
 <style>
-  #hero {
+  #Úvod {
     background: rgb(7, 2, 56);
     background: linear-gradient(180deg, rgba(7, 2, 56, 1) 0%);
     padding: 6.5%;

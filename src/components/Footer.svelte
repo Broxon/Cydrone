@@ -1,6 +1,6 @@
-<img src="./assets/img/background/wave_footer.svg" alt="wave" />
+<img src="./assets/img/background/wave_footer.svg" alt="vlna" />
 
-<footer class="footer pt-0" id="footer">
+<footer class="footer pt-0" id="Kontakt">
   <div class="content">
     <div class="columns">
       <div class="column" />
@@ -44,7 +44,7 @@
     list-style: none;
   }
 
-  #footer {
+  #Kontakt {
     background: rgb(7, 2, 56);
     background: linear-gradient(180deg, rgba(7, 2, 56, 1) 0%);
   }
