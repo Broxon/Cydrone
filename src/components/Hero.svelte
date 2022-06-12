@@ -49,6 +49,7 @@ typing ()
 <img src="./assets/img/background/wave.svg" alt="wave" />
 
 
+
 <style>
     #hero {
         background: rgb(7, 2, 56);

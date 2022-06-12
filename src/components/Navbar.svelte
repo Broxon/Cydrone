@@ -8,7 +8,7 @@
 <nav class="navbar is-spaced is-transparent" id="Navbar">
     <div class="container">
         <div class="navbar-brand">
-            <a href="#/" class="navbar-item">
+            <a href="#hero" class="navbar-item">
                 <img class="cydrone" src="./assets/img/logo/CyDrone.png" alt="#/" />
             </a>
             <a href="#hero" class="navbar-item is-size-5 has-text-black">
@@ -32,7 +32,7 @@
                     <a class="navbar-item has-text-black" href="#Our_solution">
                     Naše řešení 
                     </a>
-                    <a class="navbar-item has-text-black" href="/">
+                    <a class="navbar-item has-text-black" href="#footer">
                     Kontakt</a>
                 </div>
             </div>
