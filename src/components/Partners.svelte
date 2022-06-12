@@ -16,8 +16,7 @@
             <article class="media">
               <div class="media-left">
                 <figure class="image is-64x64">
-                  <!-- svelte-ignore a11y-img-redundant-alt -->
-                  <img src="/assets/img/people/sablik.jpg" alt="Image" />
+                  <img src="/assets/img/people/sablik.jpg" alt="Radko Sáblík" />
                 </figure>
               </div>
               <div class="media-content">
@@ -45,8 +44,7 @@
             <article class="media">
               <div class="media-left">
                 <figure class="image is-64x64">
-                  <!-- svelte-ignore a11y-img-redundant-alt -->
-                  <img src="/assets/img/people/nathan.jpg" alt="Image" />
+                  <img src="/assets/img/people/nathan.jpg" alt="Nathan Němec" />
                 </figure>
               </div>
               <div class="media-content">
