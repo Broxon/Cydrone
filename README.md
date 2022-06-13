@@ -6,4 +6,4 @@
 
 ### Work in Progress
 
-<img width="1440" alt="CyDrone Home" src="https://user-images.githubusercontent.com/72941622/173295608-8bbbe7e7-9131-4639-b092-29b66e035fa0.png">
+<img width="1440" alt="CyDrone Home" src="https://user-images.githubusercontent.com/72941622/173295751-078464a4-7883-4f33-a724-47bdbeffd3af.png">
