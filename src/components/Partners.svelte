@@ -44,7 +44,7 @@
             <article class="media">
               <div class="media-left">
                 <figure class="image is-64x64">
-                  <img src="/assets/img/people/nathan.jpg" alt="Nathan Němec" />
+                  <img src="/assets/img/people/Nathan.jpg" alt="Nathan Němec" />
                 </figure>
               </div>
               <div class="media-content">
