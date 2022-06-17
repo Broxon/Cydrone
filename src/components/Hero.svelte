@@ -26,7 +26,7 @@
           {typedChars}
         </div>
         <div class="title is-5 has-text-white-bis mt-6 is-size-6-mobile is-size-5-tablet">CyDrone disponuje širokou paletou nástrojů od rušiček rádiové komunikace až k nočnímu vidění</div>
-        <a href="#Our_solution">
+        <a href="#Naše_řešení">
           <button class="button is-active is-hovered is-medium is-rounded is-responsive is-fullwidth mt-6" href="#Naše_řešení">ZJISTIT VÍCE</button>
         </a>
       </div>
