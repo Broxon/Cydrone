@@ -21,11 +21,11 @@
 <section class="section pb-0" id="Úvod">
   <div class="container max-width">
     <div class="columns pb-5 is-multiline">
-      <div class="column is-one-third">
-        <div class="title is-1 has-text-white-bis is-size-2-mobile">
+      <div class="column is-two-fifths" id="text">
+        <div class="title is-1 has-text-white-bis is-size-2-touch">
           {typedChars}
         </div>
-        <div class="title is-5 has-text-white-bis mt-6 is-size-6-mobile">CyDrone disponuje širokou paletou nástrojů od rušiček rádiové komunikace až k nočnímu vidění</div>
+        <div class="title is-5 has-text-white-bis mt-6 is-size-6-mobile is-size-5-tablet">CyDrone disponuje širokou paletou nástrojů od rušiček rádiové komunikace až k nočnímu vidění</div>
         <a href="#Our_solution">
           <button class="button is-active is-hovered is-medium is-rounded is-responsive is-fullwidth mt-6" href="#Our_solution">ZJISTIT VÍCE</button>
         </a>
@@ -47,9 +47,19 @@
     padding: 6.5%;
   }
 
-  @media only screen and (min-width: 600px) {
+  @media only screen and (min-width: 600px) and (max-width: 1000px) {
     .column {
       margin-top: 9em;
+    }
+    #text {
+      padding-right: 2em;
+    }
+  }
+
+  @media only screen and (min-width: 1000px) {
+    .column {
+      margin-top: 10em;
+      margin-bottom: 5em;
       margin-left: 5em;
       margin-right: 5em;
     }

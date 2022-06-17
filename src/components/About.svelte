@@ -8,8 +8,8 @@
       <div class="columns">
         <div class="column">
           <div class="columns">
-            <div class="column is-3 mt-1 mr-1 ml-1">
-              <figure class="image is-128x128">
+            <div class="column is-3 mt-1 mr-1 ml-1" id="image">
+              <figure class="image">
                 <img class="is-rounded is-128x128" src="./assets/img/people/alex.png" alt="Alexandr Waage" />
               </figure>
             </div>
@@ -22,8 +22,8 @@
         </div>
         <div class="column">
           <div class="columns">
-            <div class="column is-3 mt-1 mr-1 ml-1">
-              <figure class="image is-128x128">
+            <div class="column is-3 mt-1 mr-1 ml-1" id="image">
+              <figure class="image">
                 <img class="is-rounded is-128x128" src="./assets/img/people/bruno.png" alt="Bruno Bartůněk" />
               </figure>
             </div>
@@ -38,8 +38,8 @@
       <div class="columns">
         <div class="column">
           <div class="columns">
-            <div class="column is-3 mt-1 mr-1 ml-1">
-              <figure class="image is-128x128">
+            <div class="column is-3 mt-1 mr-1 ml-1" id="image">
+              <figure class="image">
                 <img class="is-rounded is-128x128" src="./assets/img/people/amir.png" alt="Akrami Amir" />
               </figure>
             </div>
@@ -66,7 +66,7 @@
     padding-bottom: 5%;
   }
 
-  @media only screen and (min-width: 600px) {
+  @media only screen and (max-width: 600px) {
     .column {
       margin-top: 9em;
       margin-left: 5em;
@@ -74,7 +74,17 @@
     }
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (min-width: 600px) and (max-width: 1000px) {
+    .column {
+      margin-top: 9em;
+    }
+
+    #image {
+      width: 35%;
+    }
+  }
+
+  @media only screen and (min-width: 1000px) {
     .column {
       margin-top: 9rem;
     }
