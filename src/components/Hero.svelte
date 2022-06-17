@@ -32,7 +32,7 @@
       </div>
       <div class="column" id="image_drone">
         <figure class="image">
-          <img src="./assets/img/gallery/Dronik.png" alt="Drone" />
+          <img src="./assets/img/gallery/dronik.png" alt="Drone" />
         </figure>
       </div>
     </div>

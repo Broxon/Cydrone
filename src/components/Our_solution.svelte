@@ -7,7 +7,7 @@
     <div class="columns">
       <div class="column">
         <figure class="image">
-          <img src="./assets/img/gallery/Dronik2.png" alt="Drone" />
+          <img src="./assets/img/gallery/dronik2.png" alt="Drone" />
         </figure>
       </div>
       <div class="column" id="Solution_text">

@@ -1,5 +1,5 @@
 
-(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
+(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35730/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
 var app = (function () {
     'use strict';
 
@@ -659,7 +659,7 @@ var app = (function () {
     			add_location(a, file$4, 28, 8, 838);
     			attr_dev(div2, "class", "column is-one-third svelte-1g3ck6n");
     			add_location(div2, file$4, 23, 6, 517);
-    			if (!src_url_equal(img0.src, img0_src_value = "./assets/img/gallery/Dronik.png")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "./assets/img/gallery/dronik.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "Drone");
     			add_location(img0, file$4, 34, 10, 1124);
     			attr_dev(figure, "class", "image");
@@ -1186,7 +1186,7 @@ var app = (function () {
     			attr_dev(div0, "class", "has-text-centered pb-6");
     			add_location(div0, file$2, 2, 4, 88);
     			attr_dev(img0, "class", "is-rounded is-128x128");
-    			if (!src_url_equal(img0.src, img0_src_value = "./assets/img/people/Alex.png")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "./assets/img/people/alex.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "Alexandr Waage");
     			add_location(img0, file$2, 12, 16, 520);
     			attr_dev(figure0, "class", "image is-128x128");
@@ -1206,7 +1206,7 @@ var app = (function () {
     			attr_dev(div4, "class", "column svelte-392vwz");
     			add_location(div4, file$2, 8, 8, 350);
     			attr_dev(img1, "class", "is-rounded is-128x128");
-    			if (!src_url_equal(img1.src, img1_src_value = "./assets/img/people/Bruno.png")) attr_dev(img1, "src", img1_src_value);
+    			if (!src_url_equal(img1.src, img1_src_value = "./assets/img/people/bruno.png")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "Bruno Bartůněk");
     			add_location(img1, file$2, 26, 16, 1167);
     			attr_dev(figure1, "class", "image is-128x128");
@@ -1228,7 +1228,7 @@ var app = (function () {
     			attr_dev(div9, "class", "columns");
     			add_location(div9, file$2, 7, 6, 320);
     			attr_dev(img2, "class", "is-rounded is-128x128");
-    			if (!src_url_equal(img2.src, img2_src_value = "./assets/img/people/Amir.png")) attr_dev(img2, "src", img2_src_value);
+    			if (!src_url_equal(img2.src, img2_src_value = "./assets/img/people/amir.png")) attr_dev(img2, "src", img2_src_value);
     			attr_dev(img2, "alt", "Akrami Amir");
     			add_location(img2, file$2, 42, 16, 1866);
     			attr_dev(figure2, "class", "image is-128x128");
@@ -1532,7 +1532,7 @@ var app = (function () {
     			add_location(a2, file$1, 37, 10, 1488);
     			attr_dev(div8, "class", "column is-3 svelte-vxjtj1");
     			add_location(div8, file$1, 36, 8, 1452);
-    			if (!src_url_equal(img3.src, img3_src_value = "/assets/img/people/Nathan.jpg")) attr_dev(img3, "src", img3_src_value);
+    			if (!src_url_equal(img3.src, img3_src_value = "/assets/img/people/nathan.jpg")) attr_dev(img3, "src", img3_src_value);
     			attr_dev(img3, "alt", "Nathan Němec");
     			add_location(img3, file$1, 46, 18, 1834);
     			attr_dev(figure1, "class", "image is-64x64");
@@ -1725,7 +1725,7 @@ var app = (function () {
     			add_location(h5, file, 4, 6, 162);
     			attr_dev(div0, "class", "has-text-centered pb-6");
     			add_location(div0, file, 2, 4, 73);
-    			if (!src_url_equal(img.src, img_src_value = "./assets/img/gallery/Dronik2.png")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "./assets/img/gallery/dronik2.png")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "Drone");
     			add_location(img, file, 9, 10, 399);
     			attr_dev(figure, "class", "image");

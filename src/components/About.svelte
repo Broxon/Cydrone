@@ -10,7 +10,7 @@
           <div class="columns">
             <div class="column is-3 mt-1 mr-1 ml-1">
               <figure class="image is-128x128">
-                <img class="is-rounded is-128x128" src="./assets/img/people/Alex.png" alt="Alexandr Waage" />
+                <img class="is-rounded is-128x128" src="./assets/img/people/alex.png" alt="Alexandr Waage" />
               </figure>
             </div>
             <div class="column m-1 mr-0">
@@ -24,7 +24,7 @@
           <div class="columns">
             <div class="column is-3 mt-1 mr-1 ml-1">
               <figure class="image is-128x128">
-                <img class="is-rounded is-128x128" src="./assets/img/people/Bruno.png" alt="Bruno Bartůněk" />
+                <img class="is-rounded is-128x128" src="./assets/img/people/bruno.png" alt="Bruno Bartůněk" />
               </figure>
             </div>
             <div class="column m-1 mr-0">
@@ -40,7 +40,7 @@
           <div class="columns">
             <div class="column is-3 mt-1 mr-1 ml-1">
               <figure class="image is-128x128">
-                <img class="is-rounded is-128x128" src="./assets/img/people/Amir.png" alt="Akrami Amir" />
+                <img class="is-rounded is-128x128" src="./assets/img/people/amir.png" alt="Akrami Amir" />
               </figure>
             </div>
             <div class="column m-1 mr-0">
