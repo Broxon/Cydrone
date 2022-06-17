@@ -7,9 +7,9 @@
       <div class="column">
         <strong class="has-text-white">CyDrone</strong>
         <ul id="footer-ul-1">
-          <li><a href="#About">O nás</a></li>
-          <li><a href="#Partners">Partneři</a></li>
-          <li><a href="#Our_solution">Naše řešení</a></li>
+          <li><a href="#O_nás">O nás</a></li>
+          <li><a href="#Partneři">Partneři</a></li>
+          <li><a href="#Naše_řešení">Naše řešení</a></li>
         </ul>
       </div>
       <div class="column" />
